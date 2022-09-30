@@ -1,6 +1,8 @@
 ## Hi, I'm Eric 
 
-I'm a full stack web developper currently learning computer science in my free time. I am a passionate and driven individual always willing to learn and tackle new challenging problems. 
+I am a passionate and driven individual always willing to learn and tackle new challenging problems. 
+
+🔭 I’m currently working on completing [OSSU's](https://github.com/ossu/computer-science) cirriculum. </br>
 
 ### Languages and tools
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
