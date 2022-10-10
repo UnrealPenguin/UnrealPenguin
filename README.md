@@ -2,6 +2,12 @@
 
 I am a passionate and driven individual always willing to learn and tackle new challenging problems. 
 
+🌱 My projects:<br/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Salary Calculator](https://github.com/UnrealPenguin/SalaryCalculator) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Minesweeper 3D](https://github.com/UnrealPenguin/Minesweeper3D) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Cyber9 dApp](https://github.com/UnrealPenguin/Cyber9)
+
 🔭 I’m currently working on completing [OSSU's](https://github.com/ossu/computer-science) cirriculum. </br>
 
 ### Languages and tools
