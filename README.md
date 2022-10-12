@@ -1,6 +1,4 @@
-## Hi, I'm Eric 
-
-I am a passionate and driven individual always willing to learn and tackle new challenging problems. 
+## Hi, I'm Eric :wave:
 
 🌱 My projects:<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Salary Calculator](https://github.com/UnrealPenguin/SalaryCalculator) <br/>
